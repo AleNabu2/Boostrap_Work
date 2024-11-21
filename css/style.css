@@ -1,0 +1,61 @@
+
+body {
+    background-image: url('/img/fondo.jpg') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background-color: #000 !important; /* Cambia el color según desees */
+    border: none; /* Opcional: Elimina bordes si hay */
+}
+
+
+.container-fluid {
+    background-color: #1a0208ef  !important;
+}
+
+.nav-link {
+    color:#ffffffef !important;
+}
+
+.navbar-brand {
+    color: #ffffffef !important;
+    border-color: #2359bdef !important;
+}
+
+.card {
+    margin-top: 5vw;
+    margin-left: 4vw;
+    background-color: #240209ef !important;
+    border-color: #996872ef !important;
+}
+
+.card-title {
+    color: #ffffff !important; 
+}
+
+.card-text {
+    color: #ffffff; 
+}
+
+.btn {
+    margin-top: 1vw;
+    background-color: #1a0208ef !important;
+    border-color: #996872ef !important;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espacio entre las tarjetas */
+}
+
+.offcanvas-body{
+    background-color: #240209ef !important;
+    color: #ffffff !important;
+}
+
+
